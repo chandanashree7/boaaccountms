@@ -1,7 +1,7 @@
-package com.tekarch.AccountsMS.Controller;
+package com.tekarch.boaaccountms.Controller;
 
-import com.tekarch.AccountsMS.Services.AccountsServiceImpl;
-import com.tekarch.AccountsMS.models.Accounts;
+import com.tekarch.boaaccountms.Services.AccountsServiceImpl;
+import com.tekarch.boaaccountms.models.Accounts;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

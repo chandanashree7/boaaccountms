@@ -1,8 +1,8 @@
-package com.tekarch.AccountsMS.Services;
+package com.tekarch.boaaccountms.Services;
 
-import com.tekarch.AccountsMS.Repository.AccountsRepository;
-import com.tekarch.AccountsMS.Services.Interface.AccountServiceInterface;
-import com.tekarch.AccountsMS.models.Accounts;
+import com.tekarch.boaaccountms.Repository.AccountsRepository;
+import com.tekarch.boaaccountms.Services.Interface.AccountServiceInterface;
+import com.tekarch.boaaccountms.models.Accounts;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

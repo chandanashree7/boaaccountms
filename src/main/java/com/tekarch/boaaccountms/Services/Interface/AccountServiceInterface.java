@@ -1,6 +1,6 @@
-package com.tekarch.AccountsMS.Services.Interface;
+package com.tekarch.boaaccountms.Services.Interface;
 
-import com.tekarch.AccountsMS.models.Accounts;
+import com.tekarch.boaaccountms.models.Accounts;
 
 import java.util.List;
 

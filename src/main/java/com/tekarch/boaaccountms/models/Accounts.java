@@ -1,4 +1,4 @@
-package com.tekarch.AccountsMS.models;
+package com.tekarch.boaaccountms.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.*;
